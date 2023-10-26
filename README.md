@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-ThalesRF
 - 👀 Estou interessado em aprender cada vez mais sobre o mundo da programação.
-- 🌱Atualmente estou aprendendoJava Script.
+- 🌱Atualmente estou aprendendo Java Script.
 - 💞️ Estou procurando colaborar da melhor forma que eu puder.
 - 📫 How to reach me [... ](https://www.linkedin.com/in/thales-ribeiro-freitas-823791166/)
 
